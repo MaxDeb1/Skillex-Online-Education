@@ -4,5 +4,5 @@ Clone Hero section website from Webflow : https://webflow.com/website/Skillex-On
 
 [Live site](https://maxdeb1.github.io/Skillex-Online-Education/)
 
-![Design preview for the Skillex-Online-Education](./Design/Desktop.jpg)
+![Design preview for the Skillex-Online-Education](./Design/Desktop.png)
 
